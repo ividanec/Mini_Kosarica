@@ -52,7 +52,7 @@ hr{
 /* divovi */
 
 #sadrzaj{
-	/* display:none;  */
+	display:none;
 	border: 1px solid #ccccb3;
 	height:350px auto;
 	width:350px;
